@@ -5,15 +5,22 @@
 • Checked distibution of data by using 'histogram' and remove outliers.
 
 • Used 'fillna' to fill all the missing values.
+
 • For categorical columns used 'mode' to fill all the missing values and for numerical columns used 'median' to fill all the missing values .
+
 • Used 'derop_duplicates' (set subset = 'App' for selecting App column) on column App and removed duplicate rows which have same application name.
-• Some columns has '$','+' characters present inside rows therefore used string replace in lambda function and applied on that particular columns to replace '$', '+'             characters. 
+
+• Some columns has '$','+' characters present inside rows therefore used string replace in lambda function and applied on that particular columns to replace '$', '+'               characters. 
+
 • Some numerical columns shows as object datatype therefore used 'astype' and converted object datatype into float datatype . 
+
 • Used 'value counts' and 'nlargest' , plotted 'pie' chart to get information about maximum category apps.
+
 • Used 'groupby' on category column to get maximum rating, reviews and installs for plotting graph of that.
+
 • Used 'logical operators' for conditions and 'sort values' to get the top free apps, top paid apps and best game app on play store.
 
-**Choose this project to find out following information **:
+**Choose this project to find out following information**:
 
 • Find the top apps on play store. 
 • Find the best game app on play store. 
