@@ -20,11 +20,15 @@
 
 • Used 'logical operators' for conditions and 'sort values' to get the top free apps, top paid apps and best game app on play store.
 
+
 **Choose this project to find out following information**:
 
 • Find the top apps on play store. 
+
 • Find the best game app on play store. 
+
 • From a developer point of view which types of category apps should create for better profit. 
+
 
 **Conclusion** :
 
@@ -65,6 +69,7 @@
      Category                     App 
     1.FAMILY                1.Minecraft
     2.GAME                  1.Hitman Sniper 
+    
     
 **Result** :
 1. Top free apps possessed more Communication category apps.
