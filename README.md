@@ -10,7 +10,7 @@
 
 • Used 'derop_duplicates' (set subset = 'App' for selecting App column) on column App and removed duplicate rows which have same application name.
 
-• Some columns has '$','+' characters present inside rows therefore used string replace in lambda function and applied on that particular columns to replace '$', '+'               characters. 
+• Some columns has '$', '+' characters present inside rows therefore used string replace in lambda function and applied on that particular columns to replace '$', '+'             characters. 
 
 • Some numerical columns shows as object datatype therefore used 'astype' and converted object datatype into float datatype . 
 
