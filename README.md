@@ -1,9 +1,9 @@
 # Play-Store
 This analysis will provide you top apps according to different categories.
 
-**Project : Play-Store Analysis.
+**Project** : **Play-Store Analysis.**
 
-**Work Done :
+**Work Done** :
 
 • Checked distibution of data by using 'histogram' and remove outliers.
 • Used 'fillna' to fill all the missing values.
@@ -21,7 +21,7 @@ This analysis will provide you top apps according to different categories.
 • Find the best game app on play store. 
 • From a developer point of view which types of category apps should create for better profit. 
 
-**Conclusion :
+**Conclusion** :
 
  From the above analysis we can summaries as follow :
     
@@ -61,7 +61,7 @@ This analysis will provide you top apps according to different categories.
     1.FAMILY                1.Minecraft
     2.GAME                  1.Hitman Sniper 
     
- # Result :
+**Result** :
 1. Top free apps possessed more Communication category apps.
 2. Minecraft and Hitman Sniper are the top paid apps.
 3. Subway Surfers is the best game app on play store.
