@@ -3,6 +3,7 @@
 **Work Done** :
 
 • Checked distibution of data by using 'histogram' and remove outliers.
+
 • Used 'fillna' to fill all the missing values.
 • For categorical columns used 'mode' to fill all the missing values and for numerical columns used 'median' to fill all the missing values .
 • Used 'derop_duplicates' (set subset = 'App' for selecting App column) on column App and removed duplicate rows which have same application name.
