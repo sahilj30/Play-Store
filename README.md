@@ -25,7 +25,7 @@
 
 • Find the top apps on play store. 
 
-• Find the best game app on play store. 
+• Find the best game app on play store.
 
 • From a developer point of view which types of category apps should create for better profit. 
 
